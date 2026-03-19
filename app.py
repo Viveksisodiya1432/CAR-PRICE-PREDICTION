@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-scikit-learn
+import scikit-learn
 import joblib
 
 # Page config
